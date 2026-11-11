@@ -1,0 +1,19 @@
+xdmtorrent binaries
+Copyright (c) 2026 subhra74. All rights reserved.
+
+Permission is granted, free of charge, to any person obtaining a copy of the xdmtorrent binary libraries
+published in this repository (the "Binaries") to use, copy and redistribute the Binaries in unmodified form,
+on their own or as part of other software, provided that this notice and the third-party license notices in
+the "third-party" folder accompany every copy.
+
+This permission does not cover modifying, decompiling or reverse engineering the Binaries, except where
+applicable law allows it regardless of this limitation. No source code is provided.
+
+The Binaries contain third-party software (libtorrent, OpenSSL, Boost) that is licensed under its own terms,
+reproduced in the "third-party" folder. Nothing in this notice limits the rights those licenses grant.
+
+THE BINARIES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE BINARIES OR THE USE
+OR OTHER DEALINGS IN THE BINARIES.
